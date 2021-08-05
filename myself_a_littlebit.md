@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning web development and c programming and lot more. 
 - 💞️ I’m looking to collaborate  with welcomed developer and learing hard.
 - 📫 How to reach me by using instagram and twitter and facebook.
+-  Wred  thing about me is i have a lot of dream and working on it little bit >>almost all :_)
 
 <!---
 jeevanghimire/jeevanghimire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
