@@ -1,3 +1,4 @@
+![transparent one](https://user-images.githubusercontent.com/66736799/146297797-bd3947cc-4bfa-41b0-8f68-13c59da68934.png)
 - 👋 Hi, I’m @jeevanghimire
 - ✌ Chill Guy Seeing world and discovering different hobbies.
 - 🐱‍💻VartamAnE jive 
@@ -14,7 +15,7 @@
 <a href="https://twitter.com/imjeevanghimire/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kcaashish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeevanghimire/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kcaashish" height="30" width="40" /></a>
 <a href="https://fb.com/imjeevangimire/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aashish.world" height="30" width="40" /></a>
-<a href="https://instagram.com/imjeevanghimire/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/g
+<a href="https://instagram.com/imjeevanghimire/" target="blank">
 
 <!---
 jeevanghimire/jeevanghimire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
