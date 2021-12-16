@@ -1,5 +1,4 @@
 ![transparent one](https://user-images.githubusercontent.com/66736799/146297797-bd3947cc-4bfa-41b0-8f68-13c59da68934.png)
-
 <h1 align="center">Hi 👋, I'm Jeevan Ghimire</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevanghimire&label=Profile%20views&color=0e75b6&style=flat" alt="jeevanghimire" /> </p>
