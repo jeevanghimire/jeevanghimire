@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from Nepal</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevanghimire&label=Profile%20views&color=0e75b6&style=flat" alt="jeevanghimire" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imjeevanghimire" target="blank"><img src="https://img.shields.io/twitter/follow/imjeevanghimire?logo=twitter&style=for-the-badge" alt="imjeevanghimire" /></a> </p>![mega-creator](https://user-images.githubusercontent.com/66736799/146408592-044f3d03-bf44-4f0b-a79f-f523324588b6.png)
+<p align="left"> <a href="https://twitter.com/imjeevanghimire" target="blank"><img src="https://img.shields.io/twitter/follow/imjeevanghimire?logo=twitter&style=for-the-badge" alt="imjeevanghimire" /></a> </p>
 
 - 🔭 I’m currently working on **Myself**
 - 🌱 I’m currently learning **A lot of thing's**
