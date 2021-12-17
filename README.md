@@ -1,6 +1,7 @@
 ![transparent one](https://user-images.githubusercontent.com/66736799/146297797-bd3947cc-4bfa-41b0-8f68-13c59da68934.png)
-<h1 align="center">Hi 👋, I'm Jeevan Ghimire</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+                                ![image](https://user-images.githubusercontent.com/66736799/146564539-ee4ffe15-7929-4443-933e-0d708e45819b.png)
+<h1 align="center">Hi 👋, I'm Jeevan Ghimire </h1>
+<h3 align="center">A passionate developer from Nepal(🇳🇵) </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevanghimire&label=Profile%20views&color=0e75b6&style=flat" alt="jeevanghimire" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imjeevanghimire" target="blank"><img src="https://img.shields.io/twitter/follow/imjeevanghimire?logo=twitter&style=for-the-badge" alt="imjeevanghimire" /></a> </p>
@@ -14,7 +15,9 @@
 - 👀 I’m interested in 3d web development and making program using c,python,c++,ruby etc.Also sove the hardcore mathmatic Problem  using skill.
 - 🌱 I’m currently learning web development and c programming and lot more. 
 - 💞️ I’m looking to collaborate  with welcomed developer and learing hard.
-- 📫 How to reach me by using instagram and twitter and facebook.
+- 📫 How to reach me by using instagram and twitter and facebook.![146564539-ee4ffe15-7929-4443-933e-0d708e45819b](https://user-images.githubusercontent.com/66736799/146564728-47bbd46d-1ea3-40dd-8d07-3b18c7d25af7.png)![146564539-ee4ffe15-7929-4443-933e-0d708e45819b](https://user-images.githubusercontent.com/66736799/146564733-a6a6d9ae-fb8b-4ce3-a41d-18e09ca81cab.png)
+
+
 -  Wred  thing about me is i have a lot of dream and working on it little bit >>almost all :_)
 
 <h3 align="left">Connect with me:</h3>
