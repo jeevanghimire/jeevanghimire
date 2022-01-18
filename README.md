@@ -16,6 +16,7 @@
 - 💞️ I’m looking to collaborate  with welcomed developer and learing hard.
 - 📫 How to reach me by using instagram and twitter and facebook.
 -  Wred  thing about me is i have a lot of dream and working on it little bit >>almost all :_)
+- ₿ Love to to Bockchain Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
