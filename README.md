@@ -1,5 +1,5 @@
 ![transparent one](https://user-images.githubusercontent.com/66736799/146297797-bd3947cc-4bfa-41b0-8f68-13c59da68934.png)  ![image](https://user-images.githubusercontent.com/66736799/146564539-ee4ffe15-7929-4443-933e-0d708e45819b.png) 
-<img align="right" width="250px" style="margin-top:-20px" src="Gifs.png ">
+<img align="right" width="250px" style="margin-top:-20px" src="hero bg.png ">
                   
 <h1 align="center">Hi 👋, I'm Jeevan Ghimire </h1>
 <h3 align="center">A passionate developer from Nepal(🇳🇵) </h3>
