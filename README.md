@@ -2,6 +2,22 @@
 <h1 align="center">Hi 👋, I'm Jeevan Ghimire </h1>
 <h3 align="center">A passionate developer from Nepal(🇳🇵) </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevanghimire&label=Profile%20views&color=0e75b6&style=flat" alt="jeevanghimire" /> </p>
+</br>
+</br>
+
+<div dsplay="inline-block">
+ <a href="https://www.instagram.com/imjeevanghimire/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://twitter.com/imjeevanghimire/">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
+  <a href="https://www.linkedin.com/in/jeevanghimire">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
+
+
 
 <p align="left"> <a href="https://twitter.com/imjeevanghimire" target="blank"><img src="https://img.shields.io/twitter/follow/imjeevanghimire?logo=twitter&style=for-the-badge" alt="imjeevanghimire" /></a> </p>
 
