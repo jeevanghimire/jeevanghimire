@@ -9,6 +9,9 @@
 </br>
 </br>
 
+ # Buy Me A Coffee
+ <a href="https://www.buymeacoffee.com/jeevanghimire" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+ 
 <div dsplay="inline-block">
 <img align="right" width="250px" style="margin-top:-20px" src="gif.png">
  <a href="https://www.instagram.com/imjeevanghimire/">
