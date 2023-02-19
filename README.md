@@ -32,14 +32,13 @@
 - 🌱 I’m currently learning **A lot of thing's**
 - ✌ Chill Guy Seeing world and discovering different hobbies.
 - 🐱‍💻VartamAnE jive 
-- 🏏Circket lover Big Dream and Big Goal's 
+- 🏏Circket 💖 Big Dream and Big Goal's 
 - Making myself a better person everyday by improving everyday by 2%
 - 👀 I’m interested in 3d web development, Game Development and so on and making program using c,python,c++,ruby etc.Also sove the hardcore mathmatic Problem  using skill.
 - 🌱 I’m currently learning web development and c programming and lot more. 
 - 💞️ I’m looking to collaborate  with welcomed developer and learing hard.
 - 📫 How to reach me by using instagram and twitter and facebook.
 -  Wred  thing about me is i have a lot of dream and working on it little bit >>almost all :_)
-- ₿ Love to to Bockchain Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,7 +62,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevanghimire&show_icons=true&locale=en&layout=compact" alt="jeevanghimire" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevanghimire&show_icons=true&locale=en" alt="jeevanghimire" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jeevanghimire&show_icons=true&locale=en" alt="jeevanghimire" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanghimire&" alt="jeevanghimire" /></p>
 
