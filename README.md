@@ -20,7 +20,7 @@
   <a href="https://twitter.com/imjeevanghimire/">
     <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
   </a>
-  <a href="https://www.linkedin.com/in/jeevanghimire">
+  <a href="https://www.linkedin.com/in/imjeevanghimire">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
