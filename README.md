@@ -52,9 +52,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jeevanghimire"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jeevanghimire" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevanghimire&show_icons=true&locale=en&layout=compact" alt="jeevanghimire" /></p>
+<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevanghimire&show_icons=true&locale=en&layout=compact" alt="jeevanghimire" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevanghimire&show_icons=true&locale=en" alt="jeevanghimire" /></p>
+<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=jeevanghimire&show_icons=true&locale=en" alt="jeevanghimire" /></p>
 
 
 
