@@ -26,13 +26,8 @@
 </div>
 
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevanghimire&label=Profile%20views&color=0e75b6&style=flat" alt="jeevanghimire" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevanghimire" alt="jeevanghimire" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/imjeevanghimire" target="blank"><img src="https://img.shields.io/twitter/follow/imjeevanghimire?logo=twitter&style=for-the-badge" alt="imjeevanghimire" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jeevanghimire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jeevanghimire" height="30" width="40" /></a>
