@@ -1,6 +1,4 @@
-<img align="left" width="200px" style="margin-top:-20px" src="logo.png ">  
 
-<img align="right" width="180px" style="margin-top-left:-20px" src="https://user-images.githubusercontent.com/66736799/146564539-ee4ffe15-7929-4443-933e-0d708e45819b.png">
 
                   
 <h1 align="center">Hi 👋, I'm Jeevan Ghimire </h1>
