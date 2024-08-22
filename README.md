@@ -15,18 +15,6 @@
 <div align = "left">
  <a href="https://www.buymeacoffee.com/jeevanghimire" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
  </div>
-<div dsplay="inline-block" align = "middle">
-
- <a href="https://www.instagram.com/imjeevanghimire/">
-    <img width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
-  <a href="https://twitter.com/imjeevanghimire/">
-    <img  width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
-  <a href="https://www.linkedin.com/in/imjeevanghimire">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
-</div>
 
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevanghimire" alt="jeevanghimire" /></a> </p>
