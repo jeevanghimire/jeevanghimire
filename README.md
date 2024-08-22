@@ -1,4 +1,4 @@
-<img align="left" width="200px" style="margin-top:-20px" src="transparent one.png ">  
+<img align="left" width="200px" style="margin-top:-20px" src="logo.png ">  
 
 <img align="right" width="180px" style="margin-top-left:-20px" src="https://user-images.githubusercontent.com/66736799/146564539-ee4ffe15-7929-4443-933e-0d708e45819b.png">
 
@@ -10,7 +10,7 @@
 <p align="left"> <img src="background.png" alt="jeevanghimire" /> 
 </p>
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="jeevanghimire" /> </p>
-<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" alt="jeevanghimire" /> </p>
+
 </br>
 </br>
 
