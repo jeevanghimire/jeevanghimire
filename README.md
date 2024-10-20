@@ -1,11 +1,22 @@
 ![MasterHead](background.png)
-[![Jeevan WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeevanghimire&layout=compact)](https://github.com/anuraghazra/github-readme-stats )
-<h1 align="center">Hi 👋, I'm Jeevan Ghimire </h1>
-<h3 align="middle">A passionate developer from Nepal(🇳🇵) </h3>
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=jeevanghimire&label=Profile%20views&color=0e75b6&style=flat" alt="jeevanghimire" /> </p>
+<table align = "center">
+  <tr>
+    <td width="50%">
+      <h1 align="center">Hi 👋, I'm Jeevan Ghimire</h1>
+      <h3 align="center">A passionate developer from Nepal (🇳🇵)</h3>
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=jeevanghimire&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+      </p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeevanghimire&" alt="Jeevan WakaTime stats" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-</br>
-</br>
+
 
 <div align = "left">
  <a href="https://www.buymeacoffee.com/jeevanghimire" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
