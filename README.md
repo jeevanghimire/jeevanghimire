@@ -1,4 +1,3 @@
-![MasterHead](ImageAI-5120x1700.gif)
 ![MasterHead](background.png)
 [![Jeevan WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeevanghimire&layout=compact)](https://github.com/anuraghazra/github-readme-stats )
 <h1 align="center">Hi 👋, I'm Jeevan Ghimire </h1>
