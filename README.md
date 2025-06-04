@@ -10,7 +10,7 @@
     </td>
     <td width="50%">
       <a href="https://github.com/jeevanghimire">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeevanghimire" alt="Jeevan WakaTime stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeevanghimire&layout=compact" alt="Jeevan WakaTime stats" width="100%"/>
       </a>
     </td>
   </tr>
